@@ -1,0 +1,3 @@
+C:/Users/avila/Downloads/Proyecto-Estructura-de-Datos/mi_proyecto/cmake-build-debug/CMakeFiles/mi_proyecto.dir
+C:/Users/avila/Downloads/Proyecto-Estructura-de-Datos/mi_proyecto/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/avila/Downloads/Proyecto-Estructura-de-Datos/mi_proyecto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
